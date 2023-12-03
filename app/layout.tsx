@@ -31,6 +31,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7856143742086408"
+     crossorigin="anonymous"></script>
         <meta name="config" content={JSON.stringify(getClientConfig())} />
         <link rel="manifest" href="/site.webmanifest"></link>
         <script src="/serviceWorkerRegister.js" defer></script>
